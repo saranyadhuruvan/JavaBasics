@@ -8,6 +8,7 @@ public class CheckAccessModifer {
         System.out.println(me.age);
         System.out.println(me.childAge);
         System.out.println(me.EmpId);
+        System.out.println("Hi");
 
         Child ch= new Child();
 
